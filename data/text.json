@@ -1,0 +1,73 @@
+{
+  "probe": "文",
+  "en": {
+    "title": "Night Survivors",
+    "level": "Lv {n}",
+    "paused": "PAUSED",
+    "victory": "VICTORY",
+    "game_over": "GAME OVER",
+    "stats": "Time {time}   Kills {kills}   Lv {level}",
+    "again": "Click or tap to play again",
+    "heal_name": "Heal",
+    "names": {
+      "spark": "Spark Wand",
+      "blades": "Spin Blades",
+      "ring": "Holy Ring",
+      "boots": "Swift Boots",
+      "heart": "Big Heart",
+      "magnet": "Magnet"
+    },
+    "short": {
+      "spark": "Spark",
+      "blades": "Blades",
+      "ring": "Ring",
+      "boots": "Boots",
+      "heart": "Heart",
+      "magnet": "Magnet"
+    },
+    "lines": {
+      "spark": "{dmg} damage every {rate} s",
+      "blades": "{n} blades, {dmg} damage each",
+      "ring": "{dmg} damage, radius {rad} px",
+      "boots": "Walk {pct}% faster, outrun ghosts",
+      "heart": "+{hp} max HP, heal {heal}",
+      "magnet": "+{px} px gem pickup",
+      "heal": "Recover {hp} HP"
+    }
+  },
+  "zh": {
+    "title": "暗夜幸存者",
+    "level": "等级 {n}",
+    "paused": "已暂停",
+    "victory": "胜利",
+    "game_over": "游戏结束",
+    "stats": "用时 {time}   击杀 {kills}   等级 {level}",
+    "again": "点击或触摸重新开始",
+    "heal_name": "治疗",
+    "names": {
+      "spark": "火花魔杖",
+      "blades": "旋转飞刃",
+      "ring": "圣光光环",
+      "boots": "疾行之靴",
+      "heart": "生命之心",
+      "magnet": "磁力石"
+    },
+    "short": {
+      "spark": "火花",
+      "blades": "飞刃",
+      "ring": "光环",
+      "boots": "疾行",
+      "heart": "生命",
+      "magnet": "磁力"
+    },
+    "lines": {
+      "spark": "每 {rate}秒 {dmg}点",
+      "blades": "{n}把飞刃 每把{dmg}点",
+      "ring": "{dmg}点伤害 半径{rad}",
+      "boots": "移速+{pct}% 甩开幽灵",
+      "heart": "上限+{hp} 回复{heal}",
+      "magnet": "拾取+{px}",
+      "heal": "回复{hp}"
+    }
+  }
+}
